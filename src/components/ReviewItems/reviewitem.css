@@ -1,0 +1,10 @@
+.review-item {
+  margin-left: 60px;
+  padding: 20px;
+  border-bottom: 1px solid lightgray;
+  border-right: 1px solid lightgray;
+}
+
+.review-item h3 {
+  color: blue;
+}
